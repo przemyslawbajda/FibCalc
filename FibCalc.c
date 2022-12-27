@@ -25,7 +25,6 @@ int main(){
  }
  
  printf("%d",n3);  
- 
  printf("\n\nKalkulator ciągu Fibonacci'ego \n");
  printf("Bajda Przemysław \n");
  printf("gr. 1.1");   
