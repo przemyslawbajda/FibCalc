@@ -1,0 +1,1 @@
+This is a university project of application that computes value of Fibonacci sequence. A console application image was created using multi-stage build. The images are tagged and versioned using Github Action workflow.
